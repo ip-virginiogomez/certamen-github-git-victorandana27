@@ -1,0 +1,4 @@
+- **Nombre completo:** Victor Andana Meza
+- **Número de Matricula:** 2026003483
+- **Carrera:** Ingeniería en Informática
+- **Fecha:** 08/05/2026
